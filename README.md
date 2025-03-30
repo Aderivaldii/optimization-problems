@@ -5,7 +5,7 @@ This project gathers experience from multiple optimization problems at the core 
 ---
 
 <p align="center">
-  [OP](https://github.com/user-attachments/assets/d082ef8e-c54e-4d06-a4bf-71e3c3d75436)
+  ![OP](https://github.com/user-attachments/assets/bee6d38b-a495-43ce-b195-a8d163dbb672)
 </p>
 
 ---
