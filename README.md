@@ -18,7 +18,7 @@ This project gathers experience from multiple optimization problems at the core 
 5. [Module 5 – Backtracking Line Search](#module-5--backtracking-line-search)
 6. [Module 6 – Newton's Method](#module-6--newtons-method)
 7. [Module 7 – Levenberg–Marquardt Parameter Estimation](#module-7--levenbergmarquardt-parameter-estimation)
-8. [Module 8 – Nonlinear Constrained Optimization](#module-8--nonlinear-constrained-optimization)
+8. [Module 8 – Nonlinear Constrained Least Squares Optimization](#module-8--nonlinear-constrained-optimization)
 9. [Module 9 – Quasi-Newton Method](#module-9--quasi-newton-method)
 10. [Module 10 – Linear Programming (LP) Solutions using Sequential Barrier Method (SBM)](#module-10--linear-programming-lp-solutions-using-sequential-barrier-method-sbm)
 11. [Bibliography](#bibliography)
