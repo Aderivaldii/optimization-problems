@@ -70,13 +70,13 @@ Implementation of a **Basis Pursuit** problem using an overcomplete dictionary o
 ## Module 5 – Backtracking Line Search
 
 Implementation of the **Backtracking Line Search** algorithm, a common method for finding suitable step lengths in iterative optimization. <br>
-It ensures a sufficient decrease in the objective function by checking the **Armijo condition**:<br>
-`f(x + s * Δx) ≤ f(x) + α * s * (∇f(x))^T * Δx`
+It ensures a sufficient decrease in the objective function by checking the <br> 
+**Armijo condition**: `φ(s) ≤ φ(0) + α * s * φ'(0)` <br>
 
-Here:
-- `s` is the step size to be determined.
-- `0 < α < 1` is the Armijo constant.
-- `Δx` is the descent direction.
+  where:<br>
+      `φ(s)` is the objective function at step length `s`.<br>
+      `α ∈ (0, 1)`, controlling the sufficient decrease condition.<br>
+      `φ'(0)` is the derivative of the objective function at `s = 0`.<br>
 
 ---
 
