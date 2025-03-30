@@ -118,7 +118,7 @@ Implementation of the **Levenberg–Marquardt (LM)** algorithm to estimate param
 
 ---
 
-## Module 8 – Nonlinear Constrained Optimization
+## Module 8 – Nonlinear Constrained Least Squares Optimization
 
 Nonlinear constrained optimization algorithms using the **Augmented Lagrangian Algorithm (ALA)** combined with the **Levenberg–Marquardt (LM)** method:
 
